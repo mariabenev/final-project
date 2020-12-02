@@ -1,0 +1,71 @@
+<table cellspacing="0" cellpadding="3" rules="all" border="1" id="ContentPlaceHolder_ContentPlaceHolder1_grvExcel" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">MECID</th><th scope="col">Committee Name</th><th scope="col">Candidate Name</th><th scope="col">Party</th><th scope="col">Office Sought</th><th scope="col">Status</th>
+		</tr><tr>
+			<td>C171117</td><td>Baker For Missouri</td><td>Judy Baker</td><td>D</td><td>State Senator - District 19 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C161252</td><td>Beck For Missouri</td><td>Doug Beck</td><td>D</td><td>State Senator - District 1 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201434</td><td>Citizens for Coyne</td><td>James Coyne</td><td>W</td><td>State Senator - District 19 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201140</td><td>Citizens for David Martin</td><td>David Martin</td><td>R</td><td>State Senator - District 9 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C121052</td><td>Citizens For Elaine Gannon</td><td>Elaine Gannon</td><td>R</td><td>State Senator - District 3 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C081024</td><td>Citizens For Hoskins</td><td>DENNY HOSKINS</td><td>R</td><td>State Senator - District 21 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C190933</td><td>Citizens to Elect Angela Mosley, LLC</td><td>Angela Mosley</td><td>D</td><td>State Senator - District 13 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C131138</td><td>Committee To Elect Lauren Arthur</td><td>Lauren Arthur</td><td>D</td><td>State Senator - District 17 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C191065</td><td>David Lenihan for Senate.com</td><td>David Lenihan</td><td>R</td><td>State Senator - District 1 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201237E</td><td>Donnie Owens</td><td>Donnie Owens</td><td>D</td><td>State Senator - District 27 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C151102</td><td>Eigel For Missouri</td><td>William Eigel</td><td>R</td><td>State Senator - District 23 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201209</td><td>Elect Raymond Kinney</td><td>Raymond Kinney</td><td>D</td><td>State Senator - District 31 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C071030</td><td>Friends Of Andrew Koenig</td><td>Andrew Koenig</td><td>R</td><td>State Senator - District 15 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C111215</td><td>Friends Of Caleb Rowden</td><td>CALEB ROWDEN</td><td>R</td><td>State Senator - District 19 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C111145</td><td>Friends Of Holly Rehder</td><td>HOLLY REHDER</td><td>R</td><td>State Senator - District 27 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C101084</td><td>Friends Of Rick Brattin</td><td>Rick Brattin</td><td>R</td><td>State Senator - District 31 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201119</td><td>jasonbeanforsenate.com</td><td>Jason  Bean</td><td>R</td><td>State Senator - District 25 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201257E</td><td>Jeff Coleman</td><td>Jeff Coleman</td><td>L</td><td>State Senator - District 13 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201496E</td><td>Jorge Fuller</td><td>Jorge Fuller</td><td>I</td><td>State Senator - District 7 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C180037</td><td>KarlaEslingerForSenate.com</td><td>Karla Eslinger</td><td>R</td><td>State Senator - District 33 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C131092</td><td>Lavender For State Senate</td><td>Deb Lavender</td><td>D</td><td>State Senator - District 15 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201234</td><td>Mark Bliss for Senate</td><td>Mark Bliss</td><td>L</td><td>State Senator - District 21 - Missouri State Senate</td><td>T</td>
+		</tr><tr>
+			<td>C201384</td><td>Michael Hebron - A Voice For All </td><td>Michael  Hebron</td><td>R</td><td>State Senator - District 5 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C131041</td><td>Mike Moon For Missouri</td><td>Mike Moon</td><td>R</td><td>State Senator - District 29 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201276</td><td>MO4Mickey Younghanz</td><td>Michael Younghanz</td><td>R</td><td>State Senator - District 17 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201243E</td><td>Nathan Kline</td><td>Nathan  Kline</td><td>G</td><td>State Senator - District 7 - Missouri State Senate</td><td>T</td>
+		</tr><tr>
+			<td>C201481</td><td>Poke Committee</td><td>Tiffany Poke</td><td>I</td><td>State Senator - District 7 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C161040</td><td>RAZER FOR MISSOURI</td><td>GREG RAZER</td><td>D</td><td>State Senator - District 7 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C190888</td><td>Richard Orr for Missouri Senate District 23</td><td>Richard Orr</td><td>D</td><td>State Senator - District 23 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C121330</td><td>Rizzo For Missouri</td><td>John Rizzo</td><td>D</td><td>State Senator - District 11 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C151126</td><td>Roberts For St Louis</td><td>Steve Roberts </td><td>D</td><td>State Senator - District 5 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C190857</td><td>Tammy Harty for 33 District MO Senate</td><td>Tammy Harty</td><td>D</td><td>State Senator - District 33 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C171282</td><td>Washington For Senate 9</td><td>Barbara  Washington</td><td>D</td><td>State Senator - District 9 - Missouri State Senate</td><td>A</td>
+		</tr>
+	</table>

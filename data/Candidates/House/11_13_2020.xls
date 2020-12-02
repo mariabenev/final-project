@@ -1,0 +1,521 @@
+<table cellspacing="0" cellpadding="3" rules="all" border="1" id="ContentPlaceHolder_ContentPlaceHolder1_grvExcel" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">MECID</th><th scope="col">Committee Name</th><th scope="col">Candidate Name</th><th scope="col">Party</th><th scope="col">Office Sought</th><th scope="col">Status</th>
+		</tr><tr>
+			<td>C191086</td><td>Aaliyah Bailey for Missouri</td><td>Aaliyah  Bailey</td><td>D</td><td>State Representative - District 64 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201423</td><td>Aaron C. Mais Campaign Fund</td><td>Aaron Mais</td><td>I</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190873</td><td>Alex Riley for State Representative </td><td>Alex Riley</td><td>R</td><td>State Representative - District 134 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201351E</td><td>Andrew Bolin </td><td>Andrew  Bolin</td><td>L</td><td>State Representative - District 83 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201194</td><td>Angela Thomas District 160</td><td>Angela Thomas</td><td>D</td><td>State Representative - District 160 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201437</td><td>Anne Landers for State Representative</td><td>Anne Landers</td><td>R</td><td>State Representative  - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201353</td><td>ArtSchaaf4MO30</td><td>Arthur Schaaf</td><td>D</td><td>State Representative - District 30 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201180</td><td>Ashley Aune for Missouri</td><td>Ashley Aune</td><td>D</td><td>State Representative - District 14 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161086</td><td>Barnes For State Representative - Dist 28th</td><td>JEROME BARNES</td><td>D</td><td>State Representative - District 28 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190949</td><td>Bennie Cook for State Representative</td><td>Bennie Cook</td><td>R</td><td>State Representative - District 142 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201326</td><td>Betteridge for House</td><td>William Betteridge</td><td>D</td><td>State Representative - District 48 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190754</td><td>Bill Hardwick for Missouri</td><td>Bill Hardwick</td><td>R</td><td>State Representative - District 122 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141233</td><td>Bill Kidd For Missouri</td><td>Bill Kidd</td><td>R</td><td>State Representative - District 20 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190859</td><td>Boggs for Missouri</td><td>Mitchell Boggs </td><td>R</td><td>State Representative - District 157 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191018</td><td>Boyd For Missouri</td><td>John Boyd</td><td>R</td><td>State Representative - District 37 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201145</td><td>Bruce Sassmann Election Committee</td><td>Bruce  Sassmann</td><td>R</td><td>State Representative - District 62 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190977</td><td>Buchheit-Courtway for Missouri</td><td>Cyndi Buchheit-Courtway</td><td>R</td><td>State Representative - District 115 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201155</td><td>Burgess 4 Missouri</td><td>Terry Burgess</td><td>D</td><td>State Representative - District 113 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201263E</td><td>Cameron Pack</td><td>Cameron  Pack</td><td>L</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201388</td><td>Campaign to Elect Daniel Karam</td><td>Daniel Karam</td><td>G</td><td>State Representative - District 37 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191056</td><td>ChadPerkins4Missouri</td><td>Chad Perkins</td><td>R</td><td>State Representative - District 40 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190882</td><td>Chris Brown for Missouri House</td><td>Chris Brown</td><td>R</td><td>State Representative - District 16 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201290</td><td>Chris Hager for Missouri</td><td>Chris Hager</td><td>D</td><td>State Representative - District 34 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190757</td><td>Cindy Slimp For The People</td><td>Cindy Slimp</td><td>D</td><td>State Representative - District 133 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190968</td><td>Citizens 4 Dr. Lisa Thomas</td><td>Lisa Thomas</td><td>R</td><td>State Representative - District 124 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201115</td><td>Citizens for Annette Turnbaugh</td><td>Annette Turnbaugh</td><td>D</td><td>State Representative - District 37 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190993</td><td>Citizens for Atchison </td><td>Darrell  Atchison</td><td>R</td><td>State Representative - District 153 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171106</td><td>Citizens For Brad Hudson</td><td>Bradley Hudson</td><td>R</td><td>State Representative - District 138 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191080</td><td>Citizens for Bridget Walsh Moore</td><td>Bridget Moore</td><td>D</td><td>State Representative - District 93 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151209</td><td>Citizens For Cheri Toalson Reisch</td><td>CHERI REISCH</td><td>R</td><td>State Representative - District 44 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201312</td><td>Citizens for Colby Murphy</td><td>Colby Murphy</td><td>D</td><td>State Representative - District 10 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151099</td><td>CITIZENS FOR CRYSTAL QUADE</td><td>CRYSTAL QUADE</td><td>D</td><td>State Representative - District 132 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161140</td><td>Citizens For Dan Stacy</td><td>Dan Stacy</td><td>R</td><td>State Representative - District 31 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191060</td><td>Citizens for Dean VanSchoiack</td><td>Dean VanSchoiack</td><td>R</td><td>State Representative - District 9 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201439</td><td>Citizens for Dee Marquez</td><td>Dewanna Marquez</td><td>D</td><td>State Representative - District 129 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151169</td><td>Citizens For Derek Grier</td><td>Derek Grier</td><td>R</td><td>State Representative - District 100 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201323</td><td>Citizens For Derges</td><td>Tricia Derges</td><td>R</td><td>State Representative - District 140 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131143</td><td>CITIZENS FOR DOGAN</td><td>SHAMED DOGAN</td><td>R</td><td>State Representative - District 98 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C011182</td><td>Citizens For Donna Baringer</td><td>Donna Baringer</td><td>D</td><td>State Representative - District 82 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131144</td><td>CITIZENS FOR EGGLESTON</td><td>J EGGLESTON</td><td>R</td><td>State Representative - District 2 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180062</td><td>Citizens For Falkner</td><td>William Falkner III</td><td>R</td><td>State Representative - District 10 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161093</td><td>Citizens For Gretchen Bangert</td><td>Gretchen Bangert</td><td>D</td><td>State Representative - District 69 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180467</td><td>Citizens For Griesheimer</td><td>Aaron Griesheimer</td><td>R</td><td>State Representative - District 61 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171245</td><td>Citizens For Jeff Coleman</td><td>Jeff  Coleman</td><td>R</td><td>State Representative - District 32 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180057</td><td>Citizens For Lakeysha Bosley</td><td>Lakeysha Bosley</td><td>D</td><td>State Representative - District 79 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180596</td><td>Citizens For Lovasco</td><td>Tony Lovasco</td><td>R</td><td>State Representative - District 64 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180026</td><td>Citizens For Murphy</td><td>James Murphy</td><td>R</td><td>State Representative - District 94 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161042</td><td>Citizens For Nathan Tate</td><td>Nathan Tate</td><td>R</td><td>State Representative - District 119 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190842</td><td>Citizens for Owen</td><td>Bill Owen</td><td>R</td><td>State Representative - District 131 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191081</td><td>Citizens for Phifer</td><td>Barbara Phifer</td><td>D</td><td>State Representative - District 90 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190948</td><td>Citizens for Rasheen Aldridge</td><td>Rasheen Aldridge</td><td>D</td><td>State Representative - District 78 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180713</td><td>Citizens For Raymond Lampert</td><td>Raymond Lampert</td><td>D</td><td>State Representative - District 137 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201166</td><td>Citizens for Ron Copeland</td><td>Ronald Copeland</td><td>R</td><td>State Representative - District 143 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190846</td><td>Citizens for Schwadron</td><td>Adam Schwadron</td><td>R</td><td>State Representative - District 106 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201429</td><td>Citizens for Sean Pouche</td><td>Sean Pouche</td><td>R</td><td>State Representative - District 13 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131112</td><td>Citizens For Shane Roden</td><td>SHANE RODEN</td><td>R</td><td>State Representative - District 111 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171365</td><td>Citizens For Simmons</td><td>John Simmons</td><td>R</td><td>State Representative - District 109 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190786</td><td>Citizens For Theresa Schmitt</td><td>Theresa Schmitt</td><td>D</td><td>State Representative - District 120 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201108</td><td>Citizens for Tim Taylor</td><td>Tim Taylor</td><td>R</td><td>State Representative - District 48 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131055</td><td>Citizens For Wiemann</td><td>John Wiemann</td><td>R</td><td>State Representative - District 103 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151110</td><td>Citizens To Elect Alan Gray</td><td>ALAN GRAY</td><td>D</td><td>State Representative - District 75 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190954</td><td>Citizens to Elect Bill Heisse</td><td>William Heisse</td><td>R</td><td>State Representative - District 92 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161072</td><td>Citizens To Elect Bruce Degroot</td><td>Bruce Degroot</td><td>R</td><td>State Representative - District 101 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171068</td><td>Citizens To Elect Doug Richey</td><td>Doug Richey</td><td>R</td><td>State Representative - District 38 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161150</td><td>Citizens To Elect Jay Mosley LLC</td><td>Jermond Mosley</td><td>D</td><td>State Representative - District 68 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190919</td><td>Citizens to Elect Kurtis Gregory</td><td>Kurtis Gregory</td><td>R</td><td>State Representative - District 51 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190944</td><td>Citizens to Elect Mike Person</td><td>Michael Person</td><td>D</td><td>State Representative - District 74 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201109</td><td>Citizens to Elect Neil Smith</td><td>Neil Smith</td><td>D</td><td>State Representative - District 67 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201173</td><td>Committee to Elect Allison Schoolcraft</td><td>Allison Schoolcraft</td><td>D</td><td>State Representative - District 131 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171225</td><td>Committee To Elect Ann Kelley</td><td>Ann Kelley</td><td>R</td><td>State Representative - District 127 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201280</td><td>Committee to Elect Ann Zimpfer</td><td>Ann Zimpfer</td><td>D</td><td>State Representative - District 95 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131128</td><td>Committee To Elect Becky Ruth</td><td>Becky Ruth</td><td>R</td><td>State Representative - District 114 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201111</td><td>Committee to Elect Bill Otto</td><td>Bill Otto</td><td>D</td><td>State Representative - District 65 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190934</td><td>Committee to Elect Bishop Davidson</td><td>Bishop  Davidson</td><td>R</td><td>State Representative - District 130 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180117</td><td>Committee To Elect Bob Bromley</td><td>Robert Bromley</td><td>R</td><td>State Representative - District 162 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201196</td><td>Committee To Elect Cindy Berne 2020</td><td>Cynthia Berne</td><td>D</td><td>State Representative - District 106 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201356</td><td>Committee to Elect Cynthia Nugent</td><td>Cynthia  Nugent</td><td>D</td><td>State Representative - District 115 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201409</td><td>Committee to Elect Dale Speelman</td><td>Dale Speelman</td><td>D</td><td>State Representative - District 156 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180340</td><td>Committee To Elect David Evans</td><td>David Evans</td><td>R</td><td>State Representative - District 154 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171246</td><td>Committee To Elect Doug Clemens</td><td>Doug Clemens</td><td>D</td><td>State Representative - District 72 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151068</td><td>Committee To Elect Houx</td><td>Dan Houx</td><td>R</td><td>State Representative - District 54 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171069</td><td>Committee to Elect Ian Mackey</td><td>Ian Mackey</td><td>D</td><td>State Representative - District 87 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191030</td><td>Committee to Elect Jamie Burger HD # 148</td><td>Jamie Burger</td><td>R</td><td>State Representative - District 148 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141157</td><td>COMMITTEE TO ELECT JASON CHIPMAN</td><td>Jason Chipman</td><td>R</td><td>State Representative - District 120 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191008</td><td>Committee to Elect Jean Pretto</td><td>Emma Jean Pretto</td><td>D</td><td>State Representative - District 94 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180080</td><td>Committee To Elect John Black</td><td>John Black</td><td>R</td><td>State Representative - District 137 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201441</td><td>Committee to Elect Joshua Shackles</td><td>Joshua Shackles</td><td>D</td><td>State Representative - District 161 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201319</td><td>Committee to Elect Karen Planalp</td><td>Karen Planalp</td><td>D</td><td>State Representative - District 9 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171130</td><td>Committee To Elect Keri Ingle</td><td>Keri Ingle</td><td>D</td><td>State Representative - District 35 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201313</td><td>Committee to Elect Lisa Rees</td><td>Lisa Rees</td><td>D</td><td>State Representative - District 103 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201240</td><td>Committee to Elect Marlene Terry</td><td>Marlene Terry</td><td>D</td><td>State Representative - District 66 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191001</td><td>Committee to Elect Marlon Anderson</td><td>Marlon Anderson</td><td>D</td><td>State Representative - District 76 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201236</td><td>Committee to Elect Neal Barnes</td><td>Neal Barnes</td><td>D</td><td>State Representative - District 56 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201406</td><td>Committee To Elect Pat Bellew</td><td>Patrick Bellew</td><td>C</td><td>State Representative - District 123 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180302</td><td>Committee To Elect Paula Brown</td><td>Paula Brown</td><td>D</td><td>State Representative - District 70 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190932</td><td>Committee to Elect Rick Roeber to the 34th</td><td>Rick Roeber</td><td>R</td><td>State Representative - District 34 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171292</td><td>Committee To Elect Robert Sauls</td><td>Robert Sauls</td><td>D</td><td>State Representative - District 21 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201090</td><td>Committee to Elect Wade Kiefer</td><td>Wade Kiefer</td><td>D</td><td>State Representative - District 12 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180078</td><td>Committee to Elect Wiley Price IV</td><td>Wiley Price</td><td>D</td><td>State Representative - District 84 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190970</td><td>Committee to Elect Yolanda Young</td><td>Yolanda Young</td><td>D</td><td>State Representative - District 22 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180060</td><td>Craig Fishel For State Representative</td><td>Craig Fishel</td><td>R</td><td>State Representative - District 136 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201413</td><td>Crump 2020</td><td>Robert  Crump</td><td>R</td><td>State Representative - District 82 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190870</td><td>Cupps for House</td><td>Scott Cupps</td><td>R</td><td>State Representative - District 158 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180106</td><td>Danny Busick 4 Rural MO</td><td>Danny Busick</td><td>R</td><td>State Representative - District 3 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201375E</td><td>Darren L Grant</td><td>Darren  Grant</td><td>R</td><td>State Representative - District 72 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190922</td><td>Dave Gragg For Missouri</td><td>Dave Gragg</td><td>D</td><td>State Representative - District 130 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171327</td><td>Dave Griffith For State Representative</td><td>Dave Griffith</td><td>R</td><td>State Representative - District 60 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201368E</td><td>Dewanna Dee Marquez</td><td>Dewanna  Marquez</td><td>D</td><td>State Representative - District 129 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C171315</td><td>Dirk Deaton For Missouri</td><td>Dirk Deaton</td><td>R</td><td>State Representative - District 159 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201165</td><td>Dolan for Missouri</td><td>Rhonda Dolan</td><td>D</td><td>State Representative - District 31 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201230</td><td>Doll for Missouri</td><td>Johanna Doll</td><td>D</td><td>State Representative - District 83 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180199</td><td>Donald B Mayhew FSR</td><td>Donald Mayhew</td><td>R</td><td>State Representative - District 121 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180170</td><td>Dottie Bailey For Missouri </td><td>Dorothy Bailey</td><td>R</td><td>State Representative - District 110 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171176</td><td>Elect Ben Baker</td><td>Ben Baker</td><td>R</td><td>State Representative - District 160 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201228</td><td>Elect Luke Barber</td><td>Luke Barber</td><td>D</td><td>State Representative - District 89 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C190807</td><td>Emily Weber For Missouri</td><td>Emily Weber</td><td>D</td><td>State Representative - District 24 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201235</td><td>Empower Missourians Hailey</td><td>Aaron Hailey</td><td>D</td><td>State Representative - District 163 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180678</td><td>Families For Kimberly-Ann Collins</td><td>Kimberly Collins</td><td>D</td><td>State Representative - District 77 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190940</td><td>Fiala for Missouri</td><td>Terrence Fiala</td><td>D</td><td>State Representative - District 6 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190984</td><td>Fogle for Missouri</td><td>Elizabeth Fogle</td><td>D</td><td>State Representative - District 135 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171124</td><td>Friends For Chris Dodson Dinkins</td><td>Chris Dinkins</td><td>R</td><td>State Representative - District 144 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141090</td><td>Friends For Chuck Basye</td><td>Charles  Basye</td><td>R</td><td>State Representative - District 47 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201303</td><td>Friends for Dorsett</td><td>Tony Dorsett</td><td>D</td><td>State Representative - District 117 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190905</td><td>Friends for Ed Lewis</td><td>Edwin Lewis</td><td>R</td><td>State Representative - District 6 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201309</td><td>Friends for Eric Holmes</td><td>Eric Holmes</td><td>R</td><td>State Representative - District 14 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161035</td><td>FRIENDS FOR FRANCIS</td><td>RICK FRANCIS</td><td>R</td><td>State Representative - District 145 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171076</td><td>Friends For Hardy Billington</td><td>Hardy Billington</td><td>R</td><td>State Representative - District 152 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141273</td><td>Friends For Jered Taylor</td><td>Jered Taylor</td><td>R</td><td>State Representative - District 139 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121012</td><td>Friends For Travis Fitzwater</td><td>Travis Fitzwater</td><td>R</td><td>State Representative - District 49 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191029</td><td>Friends For Vic Abundis</td><td>Victor Abundis</td><td>D</td><td>State Representative - District 13 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C180024</td><td>Friends For Windham</td><td>Kevin Windham</td><td>D</td><td>State Representative - District 85 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180718</td><td>Friends Of Adrian Plank</td><td>Adrian Plank</td><td>D</td><td>State Representative - District 47 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201357</td><td>Friends of Angie Schaefer</td><td>Angie Schaefer</td><td>D</td><td>State Representative - District 98 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171393</td><td>Friends Of Barry Hovis</td><td>Barry  Hovis</td><td>R</td><td>State Representative - District 146 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201217</td><td>Friends of Christine Hyman for Missouri</td><td>Christine  Hyman</td><td>D</td><td>State Representative - District 105 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151073</td><td>Friends Of Curtis Trent</td><td>Curtis Trent</td><td>R</td><td>State Representative - District 133 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141221</td><td>Friends Of Don Rone</td><td>Don Rone</td><td>R</td><td>State Representative - District 149 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180735</td><td>Friends Of Erica Hoffman</td><td>Erica Hoffman</td><td>D</td><td>State Representative - District 96 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151179</td><td>Friends Of Hannah Kelly</td><td>Hannah Kelly</td><td>R</td><td>State Representative - District 141 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171201</td><td>Friends Of Jeff Knight</td><td>Jeff Knight</td><td>R</td><td>State Representative - District 129 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201261</td><td>Friends of Jerry Adzima</td><td>Jerry Adzima</td><td>R</td><td>State Representative - District 70 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190885</td><td>Friends of Kari L Chesney</td><td>Kari Chesney</td><td>D</td><td>State Representative - District 50 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131169</td><td>Friends Of Kip Kendrick</td><td>KIP KENDRICK</td><td>D</td><td>State Representative - District 45 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171146</td><td>Friends Of Lane Roberts</td><td>Lane Roberts</td><td>R</td><td>State Representative - District 161 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161210</td><td>Friends Of Mark Ellebracht</td><td>Mark Ellebracht</td><td>D</td><td>State Representative - District 17 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151060</td><td>Friends Of Martha Stevens</td><td>MARTHA STEVENS</td><td>D</td><td>State Representative - District 46 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180168</td><td>Friends Of Mary Elizabeth Coleman</td><td>Mary  Coleman</td><td>R</td><td>State Representative - District 97 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201268</td><td>Friends of Michael Burton</td><td>Michael Burton</td><td>D</td><td>State Representative - District 92 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191031</td><td>Friends of Michael Davis</td><td>Michael Davis</td><td>R</td><td>State Representative - District 56 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151237</td><td>Friends Of Nick Schroer</td><td>Nick Schroer</td><td>R</td><td>State Representative - District 107 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201317</td><td>Friends of Nola Wood</td><td>Nola Wood</td><td>R</td><td>State Representative - District 36 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171345</td><td>Friends Of Peggy McGaugh</td><td>Peggy McGaugh</td><td>R</td><td>State Representative - District 39 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151219</td><td>Friends Of Phil Christofanelli</td><td>Phil Christofanelli</td><td>R</td><td>State Representative - District 105 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171220</td><td>Friends Of Raychel Proudie</td><td>Raychel Proudie</td><td>D</td><td>State Representative - District 73 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161160</td><td>Friends Of Richard Brown</td><td>Richard Brown</td><td>D</td><td>State Representative - District 27 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131147</td><td>Friends Of Rob Vescovo</td><td>ROB VESCOVO</td><td>R</td><td>State Representative - District 112 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171277</td><td>Friends Of Rodger L Reedy</td><td>Rodger Reedy</td><td>R</td><td>State Representative - District 57 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180126</td><td>Friends Of Ron Hicks</td><td>Ron Hicks</td><td>R</td><td>State Representative - District 102 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151158</td><td>Friends Of Rory Rowland</td><td>RORY ROWLAND</td><td>D</td><td>State Representative - District 29 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151129</td><td>FRIENDS OF RUSTY BLACK</td><td>RUSTY BLACK</td><td>R</td><td>State Representative - District 7 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161082</td><td>Friends Of Sara Walsh</td><td>Sara Walsh</td><td>R</td><td>State Representative - District 50 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201272</td><td>Friends of Scott Cazadd</td><td>Scott Cazadd</td><td>R</td><td>State Representative - District 69 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131176</td><td>FRIENDS OF SHAUL</td><td>DAN SHAUL</td><td>R</td><td>State Representative - District 113 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201197</td><td>Friends of Shumway</td><td>Susan Shumway</td><td>D</td><td>State Representative - District 108 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161073</td><td>Friends Of Steve Helms</td><td>Steve Helms</td><td>R</td><td>State Representative - District 135 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171162</td><td>Friends Of Suzie Pollock</td><td>Suzie Pollock</td><td>R</td><td>State Representative - District 123 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190863</td><td>Friends of Terry Thompson</td><td>Terry Thompson</td><td>R</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190839</td><td>Friends of Trish Gunby</td><td>Trish Gunby</td><td>D</td><td>State Representative - District 99 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C101334</td><td>Friends Of Wayne Wallingford</td><td>A WALLINGFORD</td><td>R</td><td>State Representative - District 147 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191074</td><td>Friends of Willard Haley</td><td>Willard Haley</td><td>R</td><td>State Representative - District 58 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191044</td><td>Friends to Elect Jim Kalberloh</td><td>James Kalberloh</td><td>R</td><td>State Representative - District 125 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180744</td><td>Go West For Missouri</td><td>Richard West </td><td>R</td><td>State Representative - District 63 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201373</td><td>Graham for 139 MO Dist Rep</td><td>Darlene Graham</td><td>D</td><td>State Representative - District 139 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C141193</td><td>Gregory For Missouri</td><td>David Gregory</td><td>R</td><td>State Representative - District 96 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180094</td><td>Haden For State Representative</td><td>Kent Haden</td><td>R</td><td>State Representative - District 43 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180239</td><td>Haffner For Missouri</td><td>Mike Haffner</td><td>R</td><td>State Representative - District 55 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151076</td><td>Hannegan For State Representative</td><td>Tom Hannegan</td><td>R</td><td>State Representative - District 65 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161162</td><td>Henderson For Missouri</td><td>MIKE HENDERSON</td><td>R</td><td>State Representative - District 117 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131123</td><td>Hill For Missouri</td><td>JUSTIN HILL</td><td>R</td><td>State Representative - District 108 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201202</td><td>Hogan for Representative</td><td>Edwin Hogan</td><td>D</td><td>State Representative - District 126 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190858</td><td>Hurlbert for Missouri</td><td>Joshua Hurlbert</td><td>R</td><td>State Representative - District 12 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161001</td><td>Ingrid Burnett For Missouri</td><td>INGRID BURNETT</td><td>D</td><td>State Representative - District 19 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190903</td><td>Jacque Sample for Missouri</td><td>Jacque Sample</td><td>D</td><td>State Representative - District 44 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190960</td><td>James Williams for MO House 54</td><td>James Williams</td><td>D</td><td>State Representative - District 54 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201146</td><td>Jessica DeVoto For Missouri</td><td>Jessica DeVoto</td><td>D</td><td>State Representative - District 104 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141146</td><td>Joe Adams For Missouri</td><td>Joe  Adams</td><td>D</td><td>State Representative - District 86 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201222</td><td>Joshua Dunne for Missouri</td><td>Joshua Dunne</td><td>D</td><td>State Representative - District 60 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180733</td><td>KaranPujji.com</td><td>Karan Pujji</td><td>R</td><td>State Representative - District 88 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180696</td><td>Kiehne For Missouri</td><td>John Kiehne</td><td>D</td><td>State Representative - District 110 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180004</td><td>LaDonna Appelbaum For Missouri</td><td>LaDonna Appelbaum</td><td>D</td><td>State Representative - District 71 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201195</td><td>Leighton For MO</td><td>Andrew Leighton</td><td>D</td><td>State Representative - District 147 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190845</td><td>Maggie Nurrenbern for Missouri</td><td>Margaret &quot;Maggie&quot; Nurrenbern</td><td>D</td><td>State Representative - District 15 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180242</td><td>Manlove For Missouri</td><td>Ashley Manlove</td><td>D</td><td>State Representative - District 26 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201279</td><td>Manring4MO128</td><td>Marvin Manring</td><td>D</td><td>State Representative - District 128 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121452</td><td>MCCREERY FOR MISSOURI</td><td>TRACY MCCREERY</td><td>D</td><td>State Representative - District 88 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141259</td><td>McDaniel For State Representative</td><td>Andrew McDaniel</td><td>R</td><td>State Representative - District 150 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180125</td><td>McGirl For State Rep</td><td>Michael McGirl</td><td>R</td><td>State Representative - District 118 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201176</td><td>McKinney in the House</td><td>Brenda McKinney</td><td>D</td><td>State Representative - District 158 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201358</td><td>Michael L Johnson for State Rep</td><td>Michael Johnson</td><td>D</td><td>State Representative - District 23 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201267E</td><td>Mike Copeland</td><td>Mike  Copeland</td><td>L</td><td>State Representative - District  107 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201372E</td><td>Mike Englert</td><td>Mike Englert</td><td>D</td><td>State Representative - District 20 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C201435</td><td>Mike Englert for State Representative</td><td>Mike  Englert</td><td>D</td><td>State Representative - District 20 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201244E</td><td>Mike Lind</td><td>Mike Lind</td><td>D</td><td>State Representative - District 155 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201340E</td><td>Mike Lindley</td><td>Mike  Lindley</td><td>D</td><td>State Representative - District 145 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201163</td><td>Mindi Smith for Missouri</td><td>Mindi Smith</td><td>D</td><td>State Representative - District 2 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161051</td><td>Missourians For Cody Smith</td><td>David Smith</td><td>R</td><td>State Representative - District 163 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180235</td><td>Missourians For Shields</td><td>Brenda Shields</td><td>R</td><td>State Representative - District 11 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171332</td><td>Missourians For Vic Allred</td><td>Victor Allred</td><td>R</td><td>State Representative - District 13 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190756</td><td>Munzinger For Missouri 136</td><td>Jeff Munzinger</td><td>D</td><td>State Representative - District 136 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201266E</td><td>Nancy J. Ragan</td><td>Nancy Ragan</td><td>D</td><td>State Representative - District 62 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C201383</td><td>Not For Sale-O&#39;Dell</td><td>Brady O&#39;Dell</td><td>D</td><td>State Representative - District 11 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190789</td><td>Nowlin For The 134th</td><td>Derrick Nowlin</td><td>D</td><td>State Representative - District 134 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171348</td><td>O&#39;DonnellForMissouri.com</td><td>Michael O&#39;Donnell</td><td>R</td><td>State Representative - District 95 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141542</td><td>Patricia Pike For State Representative-126</td><td>Patricia Pike</td><td>R</td><td>State Representative - District 126 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180155</td><td>Patrons Of Jeff Porter</td><td>Jeff Porter</td><td>R</td><td>State Representative - District 42 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161393</td><td>Patterson For Missouri</td><td>JONATHAN PATTERSON</td><td>R</td><td>State Representative - District 30 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191011</td><td>Perry For The People</td><td>Rickey Perry</td><td>R</td><td>State Representative - District 90 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151123</td><td>Peter Merideth For Mo Progress</td><td>Peter Merideth</td><td>D</td><td>State Representative - District 80 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141098</td><td>Pietzman For The People</td><td>Randy Pietzman</td><td>R</td><td>State Representative - District 41 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190848</td><td>Pitman For Missouri</td><td>Lee Pitman</td><td>R</td><td>State Representative - District 99 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C091206</td><td>Plocher For Missouri</td><td>DEAN PLOCHER</td><td>R</td><td>State Representative - District 89 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180227</td><td>Pollitt For House Of Representatives</td><td>Bradley Pollitt</td><td>R</td><td>State Representative - District 52 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201416</td><td>Ragan for State Representative #62</td><td>Nancy Ragan</td><td>D</td><td>State Representative - District 62 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191053</td><td>Railsback for Missouri</td><td>Randall Railsback</td><td>R</td><td>State Representative - District 8 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201478E</td><td>Richard Mckie</td><td>Richard Mckie</td><td>&nbsp;</td><td>State Representative - District 29 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171166</td><td>Riggs For Missouri</td><td>Louis Riggs</td><td>R</td><td>State Representative - District 5 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180114</td><td>Rogers For Missouri</td><td>Wesley Rogers</td><td>D</td><td>State Representative - District 18 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171121</td><td>Rudy Veit For State Representative</td><td>Rudy Veit</td><td>R</td><td>State Representative - District 59 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201219</td><td>Sander for Missouri</td><td>Chris Sander</td><td>R</td><td>State Representative - District 33 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151198</td><td>Sarah Unsicker For State Representative</td><td>Sarah Unsicker</td><td>D</td><td>State Representative - District 91 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161381</td><td>Schnelting For Missouri</td><td>ADAM SCHNELTING</td><td>R</td><td>State Representative - District 104 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201342</td><td>Sean Smith for Missouri</td><td>Sean Smith</td><td>R</td><td>State Representative - District 35 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201241</td><td>Semple For State Assembly</td><td>Sarah Semple</td><td>R</td><td>State Representative - District 132 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190938</td><td>Sharp for House</td><td>Mark Sharp</td><td>D</td><td>State Representative - District 36 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171336</td><td>Sharpe For Rep</td><td>Gregory Sharpe</td><td>R</td><td>State Representative - District 4 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201306</td><td>Simmons 4 House</td><td>Connie Simmons</td><td>D</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C171262</td><td>Southeast Missourians For Morse</td><td>Herman Morse</td><td>R</td><td>State Representative - District 151 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201369E</td><td>Stephen R. Johnson</td><td>Stephen Johnson</td><td>L</td><td>State Representative - District 88 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151167</td><td>Stephens For State Rep</td><td>Michael Stephens</td><td>R</td><td>State Representative - District 128 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180739</td><td>SteveWest4Missouri</td><td>John West</td><td>R</td><td>State Representative - District 15 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190883</td><td>The Committee to Elect James Shackelford</td><td>James Shackelford</td><td>D</td><td>State Representative - District 16 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171401</td><td>The Committee To Elect Steve Butz</td><td>Steve Butz</td><td>D</td><td>State Representative - District 81 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191040</td><td>The Committee To Keep Up With Jones</td><td>Gabriel Jones</td><td>R</td><td>State Representative - District 93 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201126</td><td>The Seitz Conservative Coalition</td><td>Brian Seitz</td><td>R</td><td>State Representative - District 156 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201404E</td><td>Timothy Gartin</td><td>Timothy  Gartin</td><td>R</td><td>State Representative - District 78 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201089</td><td>Tracy Grundy for Missouri</td><td>Tracy Grundy</td><td>D</td><td>State Representative - District 102 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201106</td><td>Travis Smith for Representative.com </td><td>Travis  Smith </td><td>R</td><td>State Representative - District 155 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201381</td><td>Vern Cherry for Jeffco 111</td><td>Daniel Cherry</td><td>D</td><td>State Representative - District 111 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190810</td><td>Vicke Kepling For MO 135</td><td>Vicke Kepling</td><td>G</td><td>State Representative - District 135 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201370E</td><td>Vicki Riley</td><td>Vicki Riley</td><td>R</td><td>State Representative - District 21 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201328E</td><td>Victoria Witt Datt</td><td>Victoria Witt Datt</td><td>D</td><td>State Representative - District 107 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191037</td><td>Vircks Election Committee</td><td>Brandt Vircks</td><td>R</td><td>State Representative - District 17 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201454</td><td>Vote 4 Bill Wayne 2020</td><td>William Wayne</td><td>L</td><td>State Representative - District 51 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C190852</td><td>Voters for Patty Lewis</td><td>Patricia Lewis</td><td>D</td><td>State Representative - District 25 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180717</td><td>Webb For House Rep</td><td>Helena Webb</td><td>D</td><td>State Representative - District 100 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201262E</td><td>William Truman (Bill) Wayne</td><td>William  Wayne</td><td>L</td><td>State Representative - District 51 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C171362</td><td>Wright For Missouri</td><td>Dale Wright</td><td>R</td><td>State Representative - District 116 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190897</td><td>Yvonne Reeves Chong for Us Committee</td><td>Yvonne Chong</td><td>D</td><td>State Representative - District 122 - Missouri House of Representatives</td><td>A</td>
+		</tr>
+	</table>
